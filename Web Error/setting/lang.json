@@ -1,0 +1,36 @@
+{
+  "fa": {
+    "403": {
+      "title": "دسترسی ممنوع",
+      "message": "شما اجازه دسترسی به این صفحه را ندارید.",
+      "button": "بازگشت به خانه"
+    },
+    "404": {
+      "title": "صفحه پیدا نشد",
+      "message": "به نظر می‌رسد این صفحه وجود ندارد یا حذف شده است.",
+      "button": "بازگشت به خانه"
+    },
+    "500": {
+      "title": "خطای سرور داخلی",
+      "message": "مشکلی در سرور رخ داده است. لطفاً بعداً دوباره تلاش کنید.",
+      "button": "بازگشت به خانه"
+    }
+  },
+  "en": {
+    "403": {
+      "title": "Forbidden",
+      "message": "You don't have permission to access this page.",
+      "button": "Go back home"
+    },
+    "404": {
+      "title": "Page Not Found",
+      "message": "It seems this page does not exist or has been removed.",
+      "button": "Go back home"
+    },
+    "500": {
+      "title": "Internal Server Error",
+      "message": "Something went wrong on the server. Please try again later.",
+      "button": "Go back home"
+    }
+  }
+}
