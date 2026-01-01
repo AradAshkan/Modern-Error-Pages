@@ -2,6 +2,13 @@
 
 This project provides **modern and responsive 403, 404, and 500 error pages** that are fully customizable.
 It supports **dark/light themes** and **multi-language support** (Persian and English). All texts and user settings are managed via separate configuration files (`config.json` and `lang.json`), making it easy to maintain and extend.
+### 📹 Showcase
+
+<details>
+  <summary>View Screenshots</summary>
+ <img width="750" height="450" alt="LightMode" src="https://github.com/user-attachments/assets/70b7c00a-b190-4b73-9817-8f6c9083ce5a" /> <img width="750" height="450" alt="DarkMode" src="https://github.com/user-attachments/assets/8b48f697-97b5-4437-8462-50fd7ddd58ba" />
+</details>
+
 
 ---
 
